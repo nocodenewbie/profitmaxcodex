@@ -1,0 +1,9 @@
+{
+  "name": "profitmaxcodex-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo 'no tests' && exit 0",
+    "build": "echo 'no build step for CDN deployment' && exit 0"
+  }
+}
